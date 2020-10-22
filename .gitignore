@@ -1,0 +1,7 @@
+doc/html/*
+*~
+.ID_MANAGER
+_Vid2OpticalFlowCSV/obj/
+_Vid2OpticalFlowCSV/optflow
+
+
