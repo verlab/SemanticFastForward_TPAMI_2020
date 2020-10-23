@@ -1,8 +1,6 @@
 [submodule "_SemanticFastForward_JVCI_2018"]
 	path = _SemanticFastForward_JVCI_2018
-	url = https://github.com/verlab/SemanticFastForward_JVCI_2018.git
-
+	url = https://github.com/verlab/SemanticFastForward_JVCI_2018/
 [submodule "_npy-matlab"]
-        path = _npy-matlab
-        url = https://github.com/kwikteam/npy-matlab.git
-
+	path = _npy-matlab
+	url = https://github.com/kwikteam/npy-matlab.git
