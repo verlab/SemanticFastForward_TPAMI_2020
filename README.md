@@ -112,8 +112,9 @@ To use the Yolo Extractor:
 2. Go to darknet folder: `cd darknet/`
 3. To make sure you using the same code, go back to an specific commit: `git reset b3c4fc9f223d9b6f50a1652d8d116fcdcc16f2e8 --hard`
 4. Copy the files from `_Darknet` to the `src/` folder
-5. Modify the `Makefile` to match your specification.
-6. Run `make`
+5. Modify the `Makefile` to match your specification. Notice that for our purpose the OpenCV option is mandatory, so change the line `OPENCV=0` for `OPENCV=1`.  
+6. Run `make`  
+7. To download the weights run: `wget https://www.verlab.dcc.ufmg.br/repository/hyperlapse/data/cvpr2018_yolo/yolo.weights`
 
 To use the extractor run:
 
